@@ -1,5 +1,5 @@
 config: 
-  info: prod-tangyu-dev
+  info: prod-tangyu-dev-1
 
 #服务注册到eureka地址
 eureka:
